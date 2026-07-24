@@ -11,6 +11,9 @@ A simple pascal fetch for Unix-like systems.
 - `fpc` (Free Pascal Compiler)
 - `make` (no explanation needed)
 
+> **Note for NixOS / GNU Guix users:**
+> Standard `sudo make install` won't work due to read-only store paths. Use `nix-shell -p fpc gnumake` or `guix shell fpc make` to build locally.
+
 ## Installation & Usage
 
 ```bash
