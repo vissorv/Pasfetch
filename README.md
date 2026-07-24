@@ -1,2 +1,2 @@
 # Pasfetch
-A simple pascal fetch for Unix
+A simple pascal fetch for Unix-like systems
