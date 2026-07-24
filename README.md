@@ -36,5 +36,5 @@ sudo/doas make install
 * **BSD**
 * Freebsd, Openbsd, Netbsd
 
-#### * **Credits**
+####  **Credits**
 This project is highly inspired by **[pfetch](https://github.com/dylanaraps/pfetch)** by dylan araps.
